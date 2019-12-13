@@ -14,6 +14,7 @@
 | [Tasks](#tasks) | 
 | [Adding more topic](#more-topic) | 
 | [Requirements](#requirements) | 
+| [Setup](#setup) | 
 
 ## Reference repository
 
@@ -129,5 +130,19 @@ The above project was run on google colab with
 - CUDA 10.0 
 
 The other requirements for this projects is given in the `requirements.txt`
+
+### Setup 
+
+For setting up the codebase
+
+```python
+
+git clone https://github.com/abdullahmitkar/deep-reading-of-a-topic.git
+cd deep-reading-of-a-topic/transformers
+pip install -r requirements.txt
+pip install pytorch-pretrained-bert
+python setup.py build
+python setup.py install
+```
 
 
