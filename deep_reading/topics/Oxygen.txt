@@ -1,0 +1,639 @@
+Oxygen (O), nonmetallic chemical element of Group 16 (VIa, or the oxygen group) of the periodic table.
+Oxygen is a colourless, odourless, tasteless gas essential to living organisms, being taken up by animals, which convert it to carbon dioxide; plants, in turn, utilize carbon dioxide as a source of carbon and return the oxygen to the atmosphere.
+Oxygen forms compounds by reaction with practically any other element, as well as by reactions that displace elements from their combinations with each other; in many cases, these processes are accompanied by the evolution of heat and light and in such cases are called combustions.
+Its most important compound is water.
+Oxygen was discovered about 1772 by a Swedish chemist, Carl Wilhelm Scheele, who obtained it by heating potassium nitrate, mercuric oxide, and many other substances.
+An English chemist, Joseph Priestley, independently discovered oxygen in 1774 by the thermal decomposition of mercuric oxide and published his findings the same year, three years before Scheele published.
+In 1775–80, French chemist Antoine-Laurent Lavoisier, with remarkable insight, interpreted the role of oxygen in respiration as well as combustion, discarding the phlogiston theory, which had been accepted up to that time; he noted its tendency to form acids by combining with many different substances and accordingly named the element oxygen (oxygène) from the Greek words for “acid former.”
+At 46 percent of the mass, oxygen is the most plentiful element in Earth’s crust.
+The proportion of oxygen by volume in the atmosphere is 21 percent and by weight in seawater is 89 percent.
+In rocks, it is combined with metals and nonmetals in the form of oxides that are acidic (such as those of sulfur, carbon, aluminum, and phosphorus) or basic (such as those of calcium, magnesium, and iron) and as saltlike compounds that may be regarded as formed from the acidic and basic oxides, as sulfates, carbonates, silicates, aluminates, and phosphates.
+Plentiful as they are, these solid compounds are not useful as sources of oxygen, because separation of the element from its tight combinations with the metal atoms is too expensive.
+Below −183 °C (−297 °F), oxygen is a pale blue liquid; it becomes solid at about −218 °C (−361 °F).
+Pure oxygen is 1.
+1 times heavier than air.
+During respiration, animals and some bacteria take oxygen from the atmosphere and return to it carbon dioxide, whereas by photosynthesis, green plants assimilate carbon dioxide in the presence of sunlight and evolve free oxygen.
+Almost all the free oxygen in the atmosphere is due to photosynthesis.
+About 3 parts of oxygen by volume dissolve in 100 parts of fresh water at 20 °C (68 °F), slightly less in seawater.
+Dissolved oxygen is essential for the respiration of fish and other marine life.
+Natural oxygen is a mixture of three stable isotopes: oxygen-16 (99.
+759 percent), oxygen-17 (0.037 percent), and oxygen-18 (0.204 percent).
+Several artificially prepared radioactive isotopes are known.
+The longest-lived, oxygen-15 (124-second half-life), has been used to study respiration in mammals.
+Oxygen has two allotropic forms, diatomic (O2) and triatomic (O3, ozone).
+The properties of the diatomic form suggest that six electrons bond the atoms and two electrons remain unpaired, accounting for the paramagnetism of oxygen.
+The three atoms in the ozone molecule do not lie along a straight line.
+Ozone may be produced from oxygen according to the equation:
+Chemical equation.
+The process, as written, is endothermic (energy must be provided to make it proceed); conversion of ozone back into diatomic oxygen is promoted by the presence of transition metals or their oxides.
+Pure oxygen is partly transformed into ozone by a silent electrical discharge; the reaction is also brought about by absorption of ultraviolet light of wavelengths around 250 nanometres (nm, the nanometre, equal to 10−9 metre); occurrence of this process in the upper atmosphere removes radiation that would be harmful to life on the surface of the Earth.
+The pungent odour of ozone is noticeable in confined areas in which there is sparking of electrical equipment, as in generator rooms.
+Ozone is light blue; its density is 1.
+658 times that of air, and it has a boiling point of −112 °C (−170 °F) at atmospheric pressure.
+Ozone is a powerful oxidizing agent, capable of converting sulfur dioxide to sulfur trioxide, sulfides to sulfates, iodides to iodine (providing an analytical method for its estimation), and many organic compounds to oxygenated derivatives such as aldehydes and acids.
+The conversion by ozone of hydrocarbons from automotive exhaust gases to these acids and aldehydes contributes to the irritating nature of smog.
+Commercially, ozone has been used as a chemical reagent, as a disinfectant, in sewage treatment, water purification, and bleaching textiles.
+Production methods chosen for oxygen depend upon the quantity of the element desired.
+Laboratory procedures include the following:
+
+Thermal decomposition of certain salts, such as potassium chlorate or potassium nitrate:
+Chemical equations.
+The decomposition of potassium chlorate is catalyzed by oxides of transition metals; manganese dioxide (pyrolusite, MnO2) is frequently used.
+The temperature necessary to effect the evolution of oxygen is reduced from 400 °C to 250 °C by the catalyst.
+Thermal decomposition of oxides of heavy metals:
+Chemical equations.
+Scheele and Priestley used mercury(II) oxide in their preparations of oxygen.
+Thermal decomposition of metal peroxides or of hydrogen peroxide:
+An early commercial procedure for isolating oxygen from the atmosphere or for manufacture of hydrogen peroxide depended on the formation of barium peroxide from the oxide as shown in the equations.
+Electrolysis of water containing small proportions of salts or acids to allow conduction of the electric current.
+When required in tonnage quantities, oxygen is prepared by the fractional distillation of liquid air.
+Of the main components of air, oxygen has the highest boiling point and therefore is less volatile than nitrogen and argon.
+The process takes advantage of the fact that when a compressed gas is allowed to expand, it cools.
+Major steps in the operation include the following: (1) Air is filtered to remove particulates; (2) moisture and carbon dioxide are removed by absorption in alkali; (3) the air is compressed and the heat of compression removed by ordinary cooling procedures; (4) the compressed and cooled air is passed into coils contained in a chamber; (5) a portion of the compressed air (at about 200 atmospheres pressure) is allowed to expand in the chamber, cooling the coils; (6) the expanded gas is returned to the compressor with multiple subsequent expansion and compression steps resulting finally in liquefaction of the compressed air at a temperature of −196 °C; (7) the liquid air is allowed to warm to distill first the light rare gases, then the nitrogen, leaving liquid oxygen.
+Multiple fractionations will produce a product pure enough (99.
+5 percent) for most industrial purposes.
+The steel industry is the largest consumer of pure oxygen in “blowing” high carbon steel—that is, volatilizing carbon dioxide and other nonmetal impurities in a more rapid and more easily controlled process than if air were used.
+The treatment of sewage by oxygen holds promise for more efficient treatment of liquid effluents than other chemical processes.
+Incineration of wastes in closed systems using pure oxygen has become important.
+The so-called LOX of rocket oxidizer fuels is liquid oxygen; the consumption of LOX depends upon the activity of space programs.
+Pure oxygen is used in submarines and diving bells.
+Commercial oxygen or oxygen-enriched air has replaced ordinary air in the chemical industry for the manufacture of such oxidation-controlled chemicals as acetylene, ethylene oxide, and methanol.
+Medical applications of oxygen include use in oxygen tents, inhalators, and pediatric incubators.
+Oxygen-enriched gaseous anesthetics ensure life support during general anesthesia.
+Oxygen is significant in a number of industries that use kilns.
+The large values of the electronegativity and the electron affinity of oxygen are typical of elements that show only nonmetallic behaviour.
+In all of its compounds, oxygen assumes a negative oxidation state as is expected from the two half-filled outer orbitals.
+When these orbitals are filled by electron transfer, the oxide ion O2− is created.
+In peroxides (species containing the ion O22−) it is assumed that each oxygen has a charge of −1.
+This property of accepting electrons by complete or partial transfer defines an oxidizing agent.
+When such an agent reacts with an electron-donating substance, its own oxidation state is lowered.
+The change (lowering), from the zero to the −2 state in the case of oxygen, is called a reduction.
+Oxygen may be thought of as the “original” oxidizing agent, the nomenclature used to describe oxidation and reduction being based upon this behaviour typical of oxygen.
+As described in the section on allotropy, oxygen forms the diatomic species, O2, under normal conditions and, as well, the triatomic species ozone, O3.
+There is some evidence for a very unstable tetratomic species, O4.
+In the molecular diatomic form there are two unpaired electrons that lie in antibonding orbitals.
+The paramagnetic behaviour of oxygen confirms the presence of such electrons.
+The intense reactivity of ozone is sometimes explained by suggesting that one of the three oxygen atoms is in an “atomic” state; on reacting, this atom is dissociated from the O3 molecule, leaving molecular oxygen.
+The molecular species, O2, is not especially reactive at normal (ambient) temperatures and pressures.
+The atomic species, O, is far more reactive.
+The energy of dissociation (O2 → 2O) is large at 117.
+2 kilocalories per mole.
+Oxygen has an oxidation state of −2 in most of its compounds.
+It forms a large range of covalently bonded compounds, among which are oxides of nonmetals, such as water (H2O), sulfur dioxide (SO2), and carbon dioxide (CO2); organic compounds such as alcohols, aldehydes, and carboxylic acids; common acids such as sulfuric (H2SO4), carbonic (H2CO3), and nitric (HNO3); and corresponding salts, such as sodium sulfate (Na2SO4), sodium carbonate (Na2CO3), and sodium nitrate (NaNO3).
+Oxygen is present as the oxide ion, O2-, in the crystalline structure of solid metallic oxides such as calcium oxide, CaO.
+Metallic superoxides, such as potassium superoxide, KO2, contain the O2- ion, whereas metallic peroxides, such as barium peroxide, BaO2, contain the O22- ion.
+Breathe in … breathe out.
+Ahh.
+Hooray for oxygen, the element that keeps much of life on Earth humming.
+Element No.
+8 on the Periodic Table of the Elements is a colorless gas that makes up 21 percent of Earth's atmosphere.
+Because it's all around, oxygen is easy to dismiss as dull and inert; in fact, it's the most reactive of the non-metallic elements.
+Earth has been oxygenated for about 2.
+3 billion to 2.
+4 billion years, and levels began to creep up at least 2.
+5 billion years ago, according to a 2007 NASA-funded study.
+No one knows quite why this lung-friendly gas suddenly became a significant part of the atmosphere, but it's possible that geologic changes on Earth led to oxygen produced by photosynthesizing organisms sticking around, rather than being consumed in geologic reactions, according to the study researchers.
+Oxygen is the third most abundant element in the universe, according to the Thomas Jefferson National Accelerator Facility.
+However, its reactivity made it relatively rare in early Earth's atmosphere.
+Cyanobacteria, which are organisms that "breathe" using photosynthesis, take in carbon dioxide and exhale oxygen, just like modern plants.
+Cyanobacteria were likely responsible for the first oxygen on Earth, an event grandly known as the Great Oxidation Event.
+Photosynthesis by cyanobacteria was likely ongoing before significant levels of oxygen built up in Earth's atmosphere; a March 2014 study published in the journal Nature Geoscience found that 2.
+95 billion-year-old rocks found in South Africa contained oxides that would have required free oxygen to form.
+These rocks were originally in shallow seas, suggesting that oxygen from photosynthesis first began to accumulate in marine environments about half a billion years before it began to accumulate in the atmosphere around 2.
+5 billion years ago.
+Life today depends heavily on oxygen, but the initial build-up of this element in the atmosphere was nothing short of a disaster.
+The new atmosphere caused a mass extinction of anaerobes, which are organisms that don't require oxygen.
+Anaerobes that were unable to adapt or survive in the presence of oxygen died off in this new world.
+[Infographic: Earth's Atmosphere Top to Bottom]
+Fast forward — way forward.
+The first inkling humans had of the existence of oxygen as an element was in 1608, when Dutch inventor Cornelius Drebbel reported that the heating of saltpeter (potassium nitrate) released a gas, according to the Royal Society of Chemistry (RSC).
+The identity of that gas remained a mystery until the 1770s, when three chemists converged on its discovery more or less at the same time.
+English chemist and clergyman Joseph Priestly isolated oxygen by shining sunlight on mercuric oxide and collecting the gas from the reaction.
+He noted that a candle burned more brightly in this gas, according to the RSC, thanks to oxygen's role in combustion.
+Priestly published his findings in 1774, beating out Swiss scientist Carl Wilhelm Steele, who had actually isolated oxygen in 1771 and written about it, but not published the work.
+Oxygen's third discoverer was Antoine-Laurent de Lavoisier, a French chemist who gave the element its name.
+The word comes from the Greek "oxy" and "genes," meaning "acid-forming.
+"
+Oxygen has eight total electrons — two orbit the nucleus in the atom's inner shell and six orbit in the outermost shell.
+The outermost shell can hold a total of eight electrons, which explains oxygen's tendency to react with other elements: Its outer shell is incomplete, and electrons are thus free for the taking (and giving).
+Oxygen forms in the hearts of stars, with the fusion of a carbon-12 nucleus and a helium-4 nucleus (also known as an alpha particle).
+It's only recently, however, that scientists have been able to peer into the nucleus of oxygen and unravel its structure.
+In March 2014, North Carolina State University physicist Dean Lee and his colleagues reported that they'd figured out the nuclear structure of oxygen-16, the most common isotope of oxygen, in its ground state (the state at which all electrons are at the lowest possible energy levels) and in its first excited state (the next energy level up).
+Advertisement
+Why should such a thing matter? Well, to understand how nuclei form in stars — from carbon to oxygen to heavier elements — is to understand how the very building blocks of the universe snap together.
+Lee and his team originally discovered that the nucleus of a carbon-12 molecule, with its six protons and six neutrons, is actually made of three particle clusters, each with two protons and two neutrons.
+If carbon-12 had three of these so-called alpha clusters, the researchers reasoned, oxygen-16 was likely to have four, given that it has eight protons and eight neutrons.
+Using supercomputer simulations and a numerical lattice, the researchers were able to see how the particles in an oxygen-16 nucleus would arrange themselves.
+They found that in the ground state of oxygen-16, there are indeed four alpha clusters, arranged neatly in a tetrahedron.
+"These alpha clusters are sort of like little fuzzy spheres of these four particles, or these nucleons, and these fuzzy spheres like to touch each other by some surface interaction," Lee told Live Science.
+The tetrahedron configuration allows them to get nice and snug.
+But there was another quantum mystery waiting to be unraveled.
+The ground state of oxygen-16 and the first excited state share an unusual feature.
+They both have the same spin — a value indicating how the particles rotate.
+They also both have positive parity, a way to indicate symmetry.
+Imagine inverting left and right in the entire universe, but having to keep subatomic particles in the same shape.
+Particles with positive parity would be able to look in this mirror universe and see themselves as they are.
+Particles with negative parity would have to flip-flop, lest they end up backwards like a line of text read in a mirror.
+"The mystery was why the lowest two states of oxygen-16 have zero spin and positive parity," Lee said, given that the states are different.
+The simulations gave an answer: In its excited state, oxygen-16 rearranges its nucleus to look little like the ground state at all.
+Instead of a tetrahedral arrangement, the alpha particles arrange themselves in a square or near-square plane.
+"Their underlying intrinsic structures were different," Lee said.
+The totally different configuration explains how spin and parity could remain the same — the nuclei take different paths to the same result.
+There are still more quantum interactions in the oxygen-16 nucleus to detangle, Lee said, and finer-grained detail to discover.
+"There are actually quite a lot of interesting things going inside of little things like nuclei," he said.
+"And there are stories that are being told about how they are being made that we are now starting to be able to address.
+"
+Lee's work looks to oxygen's birth in the stars; another line of oxygen research focuses on the element's role in life on Earth.
+Shortly after the Great Oxidation Event some 2.
+4 billion years ago, oxygen levels may have reached or exceeded today's levels before crashing, said Daniel Mills, a doctoral candidate at the Nordic Center for Earth Evolution at the University of Southern Denmark.
+Animal life didn't show up until far later, with the simplest animals appearing around 600 million years ago.
+Advertisement
+Despite theories that the rise of oxygen paved the way for the existence of animals, the story appears to be far more complex.
+Animals did not appear during the first significant bump in Earth's oxygen levels 2.
+4 billion years ago.
+And in February 2014, Mills and his colleagues reported in the journal PNAS that modern-day sponges can still breathe, eat and even grow in oxygen levels 0.
+5 percent to 4 percent of what is found in Earth's atmosphere today.
+Sponges are the probably the most similar living animal to the first animals on Earth, Mills told Live Science.
+The finding that sponges don't need high oxygen to live suggests that something else contributed to the rise of the first animal life — though rising oxygen may well have been necessary to reach the kind of diversity and ecosystems we see today, Mills said.
+Even in the modern era, animals such as nematode worms thrive in low-oxygen areas of the ocean, he added.
+"There is clearly more to animal evolution than an ample supply of oxygen," Mills said.
+Oxygen had been produced by several chemists prior to its discovery in 1774, but they failed to recognize it as a distinct element.
+Joseph Priestley and Carl Wilhelm Scheele both independently discovered oxygen, but Priestly is usually given credit for the discovery.
+They were both able to produce oxygen by heating mercuric oxide (HgO).
+Priestley called the gas produced in his experiments 'dephlogisticated air' and Scheele called his 'fire air'.
+The name oxygen was created by Antoine Lavoisier who incorrectly believed that oxygen was necessary to form all acids.
+Oxygen is the third most abundant element in the universe and makes up nearly 21% of the earth's atmosphere.
+Oxygen accounts for nearly half of the mass of the earth's crust, two thirds of the mass of the human body and nine tenths of the mass of water.
+Large amounts of oxygen can be extracted from liquefied air through a process known as fractional distillation.
+Oxygen can also be produced through the electrolysis of water or by heating potassium chlorate (KClO3).
+Oxygen is a highly reactive element and is capable of combining with most other elements.
+It is required by most living organisms and for most forms of combustion.
+Impurities in molten pig iron are burned away with streams of high pressure oxygen to produce steel.
+Oxygen can also be combined with acetylene (C2H2) to produce an extremely hot flame used for welding.
+Liquid oxygen, when combined with liquid hydrogen, makes an excellent rocket fuel.
+Ozone (O3) forms a thin, protective layer around the earth that shields the surface from the sun's ultraviolet radiation.
+Oxygen is also a component of hundreds of thousands of organic compounds.
+Image explanation
+The image represents the fundamental importance of the element in air and, when bonded to hydrogen, in water.
+Appearance
+A colourless, odourless gas.
+Uses
+The greatest commercial use of oxygen gas is in the steel industry.
+Large quantities are also used in the manufacture of a wide range of chemicals including nitric acid and hydrogen peroxide.
+It is also used to make epoxyethane (ethylene oxide), used as antifreeze and to make polyester, and chloroethene, the precursor to PVC.
+Oxygen gas is used for oxy-acetylene welding and cutting of metals.
+A growing use is in the treatment of sewage and of effluent from industry.
+Biological role
+Oxygen first appeared in the Earth’s atmosphere around 2 billion years ago, accumulating from the photosynthesis of blue-green algae.
+Photosynthesis uses energy from the sun to split water into oxygen and hydrogen.
+The oxygen passes into the atmosphere and the hydrogen joins with carbon dioxide to produce biomass.
+When living things need energy they take in oxygen for respiration.
+The oxygen returns to the atmosphere in the form of carbon dioxide.
+Oxygen gas is fairly soluble in water, which makes aerobic life in rivers, lakes and oceans possible.
+Natural abundance
+Oxygen makes up 21% of the atmosphere by volume.
+This is halfway between 17% (below which breathing for unacclimatised people becomes difficult) and 25% (above which many organic compounds are highly flammable).
+The element and its compounds make up 49.
+2% by mass of the Earth’s crust, and about two-thirds of the human body.
+There are two key methods used to obtain oxygen gas.
+The first is by the distillation of liquid air.
+The second is to pass clean, dry air through a zeolite that absorbs nitrogen and leaves oxygen.
+A newer method, which gives oxygen of a higher purity, is to pass air over a partially permeable ceramic membrane.
+In the laboratory it can be prepared by the electrolysis of water or by adding a manganese(IV) oxide catalyst to aqueous hydrogen peroxide.
+In 1608, Cornelius Drebbel had shown that heating saltpetre (potassium nitrate, KNO3) released a gas.
+This was oxygen although it was not identified as such.
+The credit for discovering oxygen is now shared by three chemists: an Englishman, a Swede, and a Frenchman.
+Joseph Priestley was the first to publish an account of oxygen, having made it in 1774 by focussing sunlight on to mercuric oxide (HgO), and collecting the gas which came off.
+He noted that a candle burned more brightly in it and that it made breathing easier.
+Unknown to Priestly, Carl Wilhelm Scheele had produced oxygen in June 1771.
+He had written an account of his discovery but it was not published until 1777.
+Antoine Lavoisier also claimed to have discovered oxygen, and he proposed that the new gas be called oxy-gène, meaning acid-forming, because he thought it was the basis of all acids.
+You're breathing right now and your body is taking in oxygen (O) molecules.
+You need oxygen to survive, as do almost all other living organisms.
+It's a good thing that oxygen makes up over twenty percent of the Earth's atmosphere.
+We are the only planet in the solar system with enough oxygen gas available to let us survive.
+Did you know that if you breathe too much oxygen you could die? What about this: If you have a room filled with oxygen and hydrogen (H) and someone lights a match.
+.
+.
+it will explode! That's because oxygen is very reactive.
+Oxygen is the eighth element of the periodic table and can be found in the second row (period).
+Alone, oxygen is a colorless and odorless molecule that is a gas at room temperature.
+Oxygen molecules are not the only form of oxygen in the atmosphere; you will also find oxygen as ozone (O3) and carbon dioxide (CO2).
+A chemist named Priestly isolated oxygen in 1774.
+Where can you find oxygen?
+Ozone
+Ozone Layer
+In the past couple of years you may have heard of something called ozone.
+It is a compound that floats in the atmosphere around the Earth.
+Did you know that ozone is made up of oxygen? That's right.
+Three oxygen atoms can combine and make ozone.
+Plastic
+Plastics
+Oxygen is inside things made out of plastic.
+Every time you get a 2-liter bottle or a yogurt, look at the plastic.
+Now you know there is oxygen inside all plastics.
+Air
+Breathable Air
+Oxygen is very important.
+Life on Earth could not exist without it.
+Animals need to breathe oxygen to survive.
+Luckily, there is enough oxygen in the air for everyone to breathe.
+Earth
+Rocks and Soils
+You just read that there is oxygen in the air.
+Here's something else.
+50% of the Earth's crust is made up of oxygen.
+That means that no matter what you pick up or dig up from the ground.
+There's a good chance that one half of it is made up of oxygen.
+Water
+Water
+Over half of the Earth is covered with water.
+Mixed in that water is oxygen.
+In the same way we breathe the oxygen in the air, fish breathe the oxygen in the water.
+Oxygen is an important element that is needed by most life forms on Earth to survive.
+It is the third most abundant element in the universe and the most abundant element in the human body.
+Oxygen has 8 electrons and 8 protons.
+It is located at the top of column 16 in the periodic table.
+The oxygen cycle plays an important role in life on Earth.
+Click here to read more about the oxygen cycle.
+Characteristics and Properties
+Under standard conditions oxygen forms a gas that is composed of molecules consisting of two oxygen atoms (O2).
+This is called a diatomic gas.
+In this form oxygen is a colorless, odorless, tasteless gas.
+Oxygen also exists as the allotrope ozone (O3).
+Ozone exists in the upper region of the Earth's atmosphere forming the ozone layer which helps to protect us from the harmful rays of the sun.
+Oxygen is a very reactive element in its pure state and can make compounds from many other elements.
+Oxygen readily dissolves in water.
+Where is oxygen found on Earth?
+Oxygen is found all around us.
+It is one of the most important elements on planet Earth.
+Oxygen makes up around 21% of the Earth's atmosphere and 50% of the mass of the Earth's crust.
+Oxygen is one of the atoms that makes up water (H2O).
+Oxygen is an important element to life on Earth.
+It is the most abundant element in the human body making up around 65% of the body's mass.
+How is oxygen used today?
+Oxygen is used by animals and plants in the respiration (breathing) process.
+Tanks of oxygen are used in medicine to treat people with breathing problems.
+They are also used as life support for astronauts and scuba divers.
+The majority of the oxygen used in industry is used in the manufacturing of steel.
+Other applications include making new compounds such as plastics and creating a very hot flame for welding.
+Liquid oxygen is combined with liquid hydrogen to make rocket fuel.
+How was it discovered?
+Swedish chemist C.W. Scheele first discovered oxygen in 1772.
+He called the gas "fire air" because it was needed for fire to burn.
+Scheele did not publish his results right away and the element was independently discovered by British scientist Joseph Priestley in 1774.
+Where did oxygen get its name?
+The name oxygen comes from the Greek word "oxygenes" meaning "acid producer".
+It was called this because early chemists thought that oxygen was necessary for all acids.
+Isotopes
+There are three stable isotopes of oxygen.
+Over 99% of stable oxygen is made up of the isotope oxygen-16.
+Interesting Facts about Oxygen
+Oxygen dissolves in cool water easier than in warm water.
+Water can be converted into hydrogen and oxygen through electrolysis.
+The oxygen that is found in the air is produced by photosynthesis.
+Without plants, there would be very little oxygen in the air.
+In the solar system, only the Earth has a high percentage of oxygen.
+Oxygen atoms make up an essential part of proteins and DNA in our bodies.
+The process of oxygen combining with other atoms to make compounds is called oxidation.
+The chemical element oxygen is classed as a chalcogen gas and a nonmetal.
+It was discovered in 1774 by Joseph Priestley and and two years earlier, but unpublished, by Carl W.
+Scheele.
+ Data Zone
+Classification:	Oxygen is a chalcogen and a nonmetal
+Color:	colorless
+Atomic weight:	15.9994
+State:	gas
+Melting point:	-218.3 oC, 54.8 K
+Boiling point:	-182.9 oC, 90.2 K
+Electrons:	8
+Protons:	8
+Neutrons in most abundant isotope:	8
+Electron shells:	2,6
+Electron configuration:	1s2 2s2 2p4
+Density @ 20oC:	0.
+001429 g/cm3
+Show more, including: Heats, Energies, Oxidation,
+Reactions, Compounds, Radii, Conductivities
+The Aurora Borealis: Excited oxygen atoms emit green light.
+The Aurora Borealis: Excited oxygen atoms emit green light.
+.
+Lavosier using a giant lens in combustion experiments.
+The chemistry of respiration: Antoine Lavoisier carries out an experiment to study the oxygen content of air exhaled from a man’s lungs.
+Lavoisier’s wife Marie-Anne makes notes.
+She also created the engraving from which this image was taken.
+Oxygen cylinders.
+Oxygen cylinders.
+Oxygen in art restoration
+Art restoration with oxygen – comparing cleaning and restoring a painting with acetone and methylene chloride (left) vs atomic oxygen (right).
+Oxygen is very efficient at removing carbon based dirt.
+Image: NASA.
+Discovery of Oxygen
+Dr.
+Doug Stewart
+Oxygen was discovered in 1774 by Joseph Priestley in England and two years earlier, but unpublished, by Carl W.
+Scheele in Sweden.
+Scheele heated several compounds including potassium nitrate, manganese oxide, and mercury oxide and found they released a gas which enhanced combustion.
+Priestley heated mercury oxide, focusing sunlight using a 12-inch ‘burning lens’ – a very large magnifying glass – to bring the oxide to a high temperature.
+Priestley’s lens was smaller than the enormous one used by Antoine Lavoisier in his investigation of carbon.
+(Shown on Chemicool’s carbon page.
+)
+Totally unexpectedly, the hot mercury oxide yielded a gas that made a candle burn five times faster than normal.
+Priestley wrote: “But what surprised me more than I can well express was that a candle burned in this air with a remarkably vigorous flame.
+I was utterly at a loss how to account for it.
+” (1)
+In addition to noticing the effect of oxygen on combustion, Priestley later noted the new gas’s biological role.
+He placed a mouse in a jar of oxygen, expecting it would survive for 15 minutes maximum before it suffocated.
+Instead, the mouse survived for a whole hour and was none the worse for it.
+(2)
+Antoine Lavoisier carried out similar experiments to Priestley’s and added to our knowledge enormously by discovering that air contains about 20 percent oxygen and that when any substance burns, it actually combines chemically with oxygen.
+Lavoisier also found that the weight of the gas released by heating mercury oxide was identical to the weight lost by the mercury oxide, and that when other elements react with oxygen their weight gain is identical to the weight lost from the air.
+This enabled Lavoisier to state a new fundamental law: the law of the conservation of matter; “matter is conserved in chemical reactions” or, alternatively, “the total mass of a chemical reaction’s products is identical to the total mass of the starting materials.
+”
+In addition to these achievements, it was Lavoisier who first gave the element its name oxygen.
+(2)
+The word oxygen is derived from the Greek words ‘oxys’ meaning acid and ‘genes’ meaning forming.
+Before it was discovered and isolated, a number of scientists had recognized the existence of a substance with the properties of oxygen:
+In the early 1500s Leonardo da Vinci observed that a fraction of air is consumed in respiration and combustion.
+(3)
+In 1665 Robert Hooke noted that air contains a substance which is present in potassium nitrate [potassium nitrate releases oxygen when heated,] and a larger quantity of an unreactive substance [which we call nitrogen].
+(3)
+In 1668 John Mayow wrote that air contains the gas oxygen [he called it nitroarial spirit], which is consumed in respiration and burning.
+(3),(4)
+Mayow observed that: substances do not burn in air from which oxygen is absent; oxygen is present in the acid part of potassium nitrate [i.
+e.
+, in the nitrate – he was right!]; animals absorb oxygen into their blood when they breathe; air breathed out by animals has less oxygen in it than fresh air.
+Visit Chemicool’s Cool Oxygen Facts Page.
+ 
+Watch steel melt when charcoal (carbon) burns in liquid oxygen.
+(Liquid oxygen is much more concentrated than the gas.
+Higher concentrations lead to faster reaction rates.)
+Liquid oxygen is pale blue and paramagnetic.
+Watch it stick to a magnet.
+(3 min 15 secs and onwards.)
+Laboratory electrolysis of water.
+Electrical energy is used to split water.
+Watch out for the different ways the two gases are collected.
+Appearance and Characteristics
+Harmful effects:
+O2 is non-toxic under normal conditions.
+However, exposure to oxygen at higher than normal pressures, e.
+g.
+scuba divers, can lead to convulsions.
+Ozone (O3) is toxic and if inhaled can damage the lungs.
+Characteristics:
+Oxygen in its common form (O2) is a colorless, odorless and tasteless diatomic gas.
+Oxygen is extremely reactive and forms oxides with nearly all other elements except noble gases.
+Oxygen dissolves more readily in cold water than warm water.
+As a result of this, our planet’s cool, polar oceans are more dense with life than the warmer, tropical oceans.
+Liquid and solid oxygen are pale blue and are strongly paramagnetic.
+Ozone (O3), another form (allotrope) of oxygen, occurs naturally in the Earth’s upper atmosphere.
+It is made by the action of ultraviolet light on O2.
+Ozone shields us from much of the harmful ultraviolet radiation coming from the sun.
+In Earth’s early atmosphere, before oxygen and hence ozone levels were sufficiently high, the ultraviolet radiation reaching our planet’s surface would have been lethal to many organisms.
+(5)
+The reaction with oxygen is one of the criteria we use to distinguish between metals (these form basic oxides) and non-metals (these form acidic oxides).
+Uses of Oxygen
+The major commercial use of oxygen is in steel production.
+Carbon impurities are removed from steel by reaction with oxygen to form carbon dioxide gas.
+Oxygen is also used in oxyacetylene welding, as an oxidant for rocket fuel, and in methanol and ethylene oxide production.
+Plants and animals rely on oxygen for respiration.
+Pure oxygen is frequently used to help breathing in patients with respiratory ailments.
+Abundance and Isotopes
+Abundance earth’s crust: 46 % by weight, 60 % by moles
+Abundance solar system: 9,000 ppm by weight, 700 ppm by moles
+Cost, pure: $0.
+3 per 100g
+Cost, bulk: $0.
+02 per 100g
+Source: Oxygen is the most abundant element in the Earth’s crust, accounting for almost half of it by mass.
+More than half of the atoms in the Earth’s crust are oxygen atoms.
+About 86 percent of the mass of Earth’s oceans is oxygen – mainly in the form of water.
+Oxygen is the third most common element in the Universe, behind hydrogen and helium.
+It is obtained commercially from liquefied air separation plants.
+It can be prepared in the laboratory by electrolysis of water.
+Isotopes: 13 whose half-lives are known, with mass numbers 12 to 24.
+Naturally occurring oxygen is a mixture of its three stable isotopes and they are found in the percentages shown: 16O (99.
+8%), 17O (0.
+04%) and 18O (0.
+2%).
+Oxygen ("Octium") is a chemical element in the periodic table that has the symbol O and atomic number 8.
+The element is very common, found not only on Earth but throughout the universe.
+Molecular oxygen (O2) (often called free oxygen) on Earth is thermodynamically unstable.
+Its initial appearance was due to the action of photosynthetic anaerobes and its ubiquity in later epochs has been largely facilitated by terrestrial plants, which release oxygen during photosynthesis.
+Notable characteristics
+At standard temperature and pressure, oxygen is found as a gas consisting of two oxygen atoms, chemical formula O2.
+This oxygen is an important component of air, produced by plants during photosynthesis and is necessary for animals' respiration.
+The word oxygen derives from two words in Greek, the Greek oxus (acid) and geinomai (engender).
+(A misnomer, as there are many acids which do not contain oxygen.
+)
+Liquid oxygen and solid oxygen have a light blue color and both are highly paramagnetic.
+Liquid oxygen is usually obtained by the fractional distillation of liquid air.
+Applications
+Oxygen finds considerable use as an oxidizer, with only fluorine having a higher electronegativity.
+Liquid oxygen finds use as an oxidizer in rocket propulsion.
+Oxygen is essential to respiration, so oxygen supplementation has found use in medicine.
+People who climb mountains or fly in airplanes sometimes have supplemental oxygen supplies (as air).
+Oxygen is used in welding, and in the making of steel and methanol.
+Oxygen, as a mild euphoric, has a history of recreational use that extends into modern times.
+Oxygen bars can be seen at parties to this day.
+In the 19th century, oxygen was often mixed with nitrous oxide to promote a kind of analgesic effect.
+History
+Oxygen was discovered by the Swedish pharmacist Karl Wilhelm Scheele in 1771, but this discovery was not immediately recognized, and the independent discovery by Joseph Priestley on August 1st 1774 was more widely known.
+It was named by Antoine Laurent Lavoisier in 1774.
+Occurrence
+Oxygen is the most abundant element in the Earth's crust, estimated to comprise 46.
+7% of it.
+Oxygen comprises about 87% of the oceans (as H2O, water) and 20% of the atmosphere of Earth (as O2, molecular oxygen, or O3, ozone).
+Oxygen compounds, particularly metal oxides, silicates (SiO44-) and carbonates (CO32-), are commonly found in rocks and soil.
+Frozen water is a common solid on the outer planets and comets.
+The ice caps of Mars are made of frozen carbon dioxide.
+Oxygen compounds are found throughout the universeand the spectrum of oxygen is often seen in stars.
+Compounds
+Due to its electronegativity, oxygen forms chemical bonds with almost all other elements (which is the origin of the original definition of oxidation).
+The only elements to escape the possibility of oxidation are a few of the noble gases.
+The most famous of these oxides is of course hydrogen oxide, or water (H2O).
+Other well known examples include compounds of carbon and oxygen, such as carbon dioxide (CO2), alcohols (R-OH), aldehydes, (R-CHO), and carboxylic acids (R-COOH).
+Oxygenated radicals such as chlorates (ClO3-), perchlorates (ClO4-), chromates (CrO42-), dichromates (Cr2O72-), permanganates (MnO4-), and nitrates (NO3-)are strong oxidizing agents in and of themselves.
+Many metals such as Iron bond with oxygen atoms, iron (III) oxide (Fe2O3).
+Ozone (O3) is formed by electrostatic discharge in the presence of molecular oxygen.
+A double oxygen molecule (O2)2 is known, found as a minor component of liquid oxygen.
+Epoxides are ethers in which the oxygen atom is part of a ring of three atoms.
+Isotopes
+Oxygen has three stable isotopes and ten known radioactive isotopes.
+The radioisotopes all have half lives of less than three minutes.
+Precautions
+Oxygen can be toxic at elevated partial pressures.
+Certain derivatives of oxygen, such as ozone (O3), hydrogen peroxide, hydroxyl radicals and superoxide, are also highly toxic.
+The body has developed mechanisms to protect against these toxic species.
+For instance, the naturally-occurring glutathione can act as an antioxidant, as can bilirubin which is normally a breakdown product of hemoglobin.
+Highly concentrated sources of oxygen promote rapid combustion and therefore are fire and explosion hazards in the presence of fuels.
+This is true as well of compounds of oxygen such as chlorates, perchlorates, dichromates, etc.
+Compounds with a high oxidative potential can often cause chemical burns.
+The fire that killed the Apollo 1 crew on a test launchpad spread so rapidly because the pure oxygen atmosphere was at normal atmospheric pressure instead of the one third pressure that would be used during an actual launch.
+(see partial pressure)
+Oxygen: description   
+Oxygen is a Group 16 element.
+While about one fifth of the atmosphere is oxygen gas, the atmosphere of Mars contains only about 0.
+15% oxygen.
+Oxygen is the third most abundant element found in the sun, and it plays a part in the carbon-nitrogen cycle, one process responsible for stellar energy production.
+Oxygen in excited states is responsible for the bright red and yellow-green colours of the aurora.
+About two thirds of the human body, and nine tenths of water, is oxygen.
+The gas is colourless, odourless, and tasteless.
+Liquid and solid oxygen are pale blue (see picture above) and strongly paramagnetic (contains unpaired electrons).
+Ozone (O3) is the second allotrope of oxygen.
+It is formed from electrical discharges or ultraviolet light acting on O2.
+It is an important component of the atmosphere (in total amounting to the equivalent of a layer about 3 mm thick at ordinary pressures and temperatures) which is vital in preventing harmful ultraviolet rays of the sun from reaching the earth's surface.
+Aerosols in the atmosphere have a detrimental effect on the ozone layer.
+Large holes in the ozone layer are forming over the polar regions and these are increasing in size annually.
+Paradoxically, ozone is toxic! Undiluted ozone is bluish in colour.
+Liquid ozone is bluish-black, and solid ozone is violet-black.
+Oxygen is very reactive and oxides of most elements are known.
+It is essential for respiration of all plants and animals and for most types of combustion.
+Oxygen occurs as two allotropes, dioxygen and trioxygen (ozone).
+Dioxygen, O2, is a diatomic colourless oxidizing gas but a pale blue liquid upon condensation.
+It is paramagnetic (that is, possesses unpaired electrons) as a result of two unpaired electrons in the two O2 π* orbitals.
+It makes up about a fifth of the earth's atmosphere.
+Ozone, O3, is a very reactive blue gas characterized by a pungent "electrical" smell (the name ozone derives from the Greek ozein, to smell).
+Ozone molecules are bent with a bond angle of about 117° in the gas phase.
+Ozone condenses to a blue-black liquid (boiling point -111.
+9°C and further cooling results in a dark violet-black solid (melting point -192.
+5°C.
+Ozone is unstable thermodynamcally with respect to dioxygen but only converts to O2 slowly in the absence of a catalyst.
+2O3(g) → 3O2(g)
+Arrangements of ozone molecules, O3, in the solid state.
+Ozone is present in the atmosphere as well, but at amuch lower level than O2.
+Ozone is a key component of the upper atmosphere because it has the ability to absorb ultraviolet light in the 220-290 nm range, so preventing harmful rays at those wavelengths reaching the earth's surface.
+These days, various factors deplete the ozone layer in the upper atmosphere and the "ozone holes" in the northern and southern polar regions are of particular concern.
+Oxygen   Oxygen and its compounds play a key role in many of the important processes of life and industry.
+Oxygen in the biosphere is essential in the processes of respiration and metabolism, the means by which animals derive the energy needed to sustain life.
+Furthermore, oxygen is the most abundant element at the surface of the Earth.
+In combined form it is found in ores, earths, rocks, and gemstones, as well as in all living organisms.
+Oxygen is a gaseous chemical element in Group VA of the periodic table.
+The chemical symbol for atomic oxygen is O, its atomic number is 8, and its atomic weight is 15.
+9994.
+Elemental oxygen is known principally in the gaseous form as the diatomic molecule, which makes up 20.
+95% of the volume of dry air.
+Diatomic oxygen is colorless, odorless, and tasteless.
+Two 18th-century scientists share the credit for first isolating elemental oxygen: Joseph PRIESTLEY (1733-1804), an English clergyman who was employed as a literary companion to Lord Shelburne at the time of his most significant experimental work, and Carl Wilhelm SCHEELE (1742-86), a Swedish pharmacist and chemist.
+It is generally believed that Scheele was the first to isolate oxygen, but that Priestley, who independently achieved the isolation of oxygen somewhat later, was the first to publicly announce his findings.
+The interpretation of the findings of Priestley and the resultant clarification of the nature of oxygen as an element was accomplished by the French scientist Antoine-Laurent LAVOISIER (1743-94).
+Lavoisier's experimental work, which extended and improved upon Priestley's experiments, was principally responsible for the understanding of COMBUSTION and the establishment of the law of conservation of matter.
+Lavoisier gave oxygen its name, which is derived from two Greek words that mean "acid former.
+" Lavoisier held the mistaken idea that oxides, when dissolved in water, would form only acids.
+It is true that some oxides when dissolved in water do form acids; for example, sulfur dioxide forms sulfurous acid.
+Some oxides, however, such as sodium oxide, dissolve in water to form bases, as in the reaction to form sodium hydroxide; therefore oxygen was actually inappropriately named.
+NATURAL OCCURRENCE  Oxygen is formed by a number of nuclear processes that are believed to occur in stellar interiors.
+The most abundant isotope of oxygen, with mass 16, is thought to be formed in hydrogen-burning stars by the capture of a proton by the isotopes of nitrogen and fluorine, with the subsequent emission of, respectively, a gamma ray and an alpha particle.
+In helium-burning stars the isotope of carbon with mass 12 is thought to capture an alpha particle to form the isotope with mass 16 with the emission of a gamma ray.
+In the terrestrial environment oxygen accounts for about half of the mass of the Earth's crust, 89% of the mass of the oceans, and 23% of the mass (and 21% of the volume) of the atmosphere.
+Most of the Earth's rocks and soils are principally silicates.
+The silicates are an amazingly complex group of materials that typically consist of greater than 50 (atomic) percent oxygen in combination with silicon and one or more metallic elements.
+Several important ores are principally oxides of the desired metals, such as the important iron-bearing minerals hematite, magnetite, and limonite and the most important aluminum-bearing mineral, BAUXITE (a mixture of hydrated aluminum oxides and iron oxide).
+PHYSICAL AND CHEMICAL PROPERTIES  Three naturally occurring isotopes of oxygen have been found: one with mass 16 (99.
+759% of all oxygen), one with mass 17 (0.
+037%); and one with mass 18 (0.
+204%).
+The rarer isotopes, principally the latter, find their major use in labeling experiments used by scientists to follow the steps of chemical reactions.
+If oxygen at a pressure of one atmosphere is cooled, it will liquefy at 90.
+18 K (-182.
+97 deg C; -297.
+35 deg F), the normal boiling point of oxygen, and it will solidify at 54.
+39 K (-218.
+76 deg C; -361.
+77 deg F), the normal melting point of oxygen.
+The liquid and solid forms of oxygen have a pale blue color.
+Several different structures are known for solid oxygen: solid type III, from the lowest temperatures achievable to 23.
+66 K; type II, from 23.
+66 to 43.
+76 K; and type I, from 43.
+76 to 54.
+39 K.
+The critical temperature for oxygen, the temperature above which it is impossible to liquefy the gas no matter how much pressure is applied, is 154.
+3 K (-118.
+9 deg C; -181.
+9 deg F).
+The pressure of liquid and gaseous oxygen coexisting in equilibrium at the critical temperature is 49.
+7 atmospheres.
+Oxygen gas exhibits a slight but important solubility in water.
+Molecular oxygen dissolved in water is required by aquatic organisms for their metabolic processes and is ultimately responsible for the oxidation and removal of organic wastes in water.
+The solubilities of gases depend on the temperature of the solution and the pressure of the gas over the solution.
+At 20 deg C (68 deg F) and an oxygen pressure of one atmosphere, the solubility of O(2) in water is about 45 grams of oxygen per cubic meter of water, or 45 ppm (parts per million).
+Molecular diatomic oxygen is a fairly stable molecule requiring a dissociation energy (the energy required to dissociate one mole of molecular oxygen in its ground state into two moles of atomic oxygen in its ground state) of 493.
+6 kilojoules per mole.
+The molecule is dissociated by ultraviolet radiation of any wavelength shorter than 193 nm.
+Solar radiation striking stratospheric oxygen dissociates it into atomic oxygen for this reason.
+The atomic oxygen formed in this fashion is capable of reacting with oxygen to form OZONE.
+Corrosion  Many direct, uncatalyzed reactions of oxygen do not occur rapidly at room temperature.
+This fact has a number of important consequences.
+One of these consequences has to do with the use of metals as structural materials.
+Metals that are used in construction, such as iron (principally as steel) and aluminum, form highly stable oxides.
+For example, the oxidation of aluminum has a significant tendency to occur.
+However, in spite of this tendency, the reaction occurs so slowly at room temperature that it can be said for most practical purposes not to occur at all, and for this reason aluminum is an appropriate and widely used structural material.
+The slowness of this reaction is due in part to the stability of the oxygen-oxygen bond and in part because of a very thin, protective layer of oxide that forms on the surface of the aluminum.
+The oxidation of iron is a complex process involving impurities in the iron, as well as water and carbon dioxide.
+This oxidative destruction, or rusting, of iron and steel--which are among our most important structural materials--is extremely costly to modern societies.
+Biological Oxidation  Another important aspect of the rates of oxygen reactions concerns the rate of reaction with organic materials.
+Such oxidation reactions are, ultimately, the sources of energy for the higher plants and animals, are responsible for the cleansing of streams of biodegradable wastes, and are responsible for the natural decomposition of organic material.
+The rates of reactions in this category are selectively controlled by enzymes in the organisms that facilitate the reactions.
+Thus waste products and dead plants and animals decompose (are oxidized) principally through the agency of microorganisms, and energy-bearing foods are metabolized (oxidized) by means of biological processes.
+Reactivity  There is a marked difference between the rates of reactions with oxygen at room temperature and the rates at elevated temperatures.
+Many substances that do not react rapidly with oxygen in air at temperatures below 100 deg C will do so at 1000 deg C with a strong evolution of heat (exothermically).
+For example, coal and petroleum can be stored indefinitely at the temperatures encountered under normal climatic conditions, but they readily oxidize, exothermically, at elevated temperatures.
+The most common compounds of oxygen are those in which the element exhibits a valence of two.
+This fact is associated with the electronic structure of atomic oxygen; this atom requires two additional electrons to fill its outermost energy level.
+Examples of divalent oxides are numerous among well-known substances such as water; carbon dioxide; aluminum oxide; silicon dioxide; the silicates, calcium carbonate or limestone; and sulfur dioxide.
+Oxygen is also known to have other valences, such as in the PEROXIDES, of which hydrogen peroxide is an example.
+The direct reaction of oxygen with another element frequently follows the pattern discussed above; that is, it does not occur rapidly or at all at room temperature but is strongly exothermic, and once oxidation is initiated the evolved heat raises the temperature of the reactants such that the reaction is self-sustaining.
+Examples of such reactions are with the elements magnesium, carbon, and hydrogen.
+Magnesium and carbon burn in air once the reaction is initiated, and a hydrogen- oxygen mixture can react explosively when the reaction is initiated by a flame or spark.
+The explosion of a hydrogen-oxygen mixture is an extremely fast reaction and occurs because of the formation of atomic oxygen in the exploding mixture.
+Uses  Pure oxygen is used extensively in technological processes.
+It is used in the welding, cutting, and forming of metals, as in oxyacetylene welding, in which oxygen reacts with acetylene to form an extremely hot flame.
+Oxygen is added to the inlet air (3 to 5%) in modern blast furnaces to increase the temperature in the furnace; it is also used in the basic oxygen converter for steel production, in the manufacture of chemicals, and for rocket propulsion.
+Oxygen is also used in the partial combustion of methane (natural gas) or coal (taken here to be carbon) to make mixtures of carbon monoxide and hydrogen called synthesis gas, which is in turn used for the manufacture of methanol.
+Processes in which combustible liquids are produced from coal will become increasingly important as petroleum resources become further depleted.
+PRODUCTION  Oxygen is conveniently produced in the laboratory by heating mercuric oxide or potassium chlorate to moderately high temperatures.
+The production from mercuric oxide is the method that was employed by Joseph Priestley, and the production from the potassium chlorate method commonly used by students in today's laboratories.
+Oxygen is liberated when solid potassium chlorate is heated to 400 deg C or, when manganese dioxide is added as a CATALYST, to 200 deg C.
+The liberated oxygen can be collected by water displacement because of the low solubility of oxygen in water.
+Oxygen can also be produced in the laboratory by the electrolysis of water, a process that reverses the violent hydrogen-oxygen reaction discussed previously.
+When a current is passed through water the liquid is decomposed at the electrodes.
+This method is also used to produce oxygen on a commercial scale when a high-purity product is desired.
+The more economical, and therefore preferred, method for the commercial production of oxygen is the liquefaction and distillation of air.
+The air is cooled until it liquefies, principally by being made to do work in a rotating expansion turbine, and the resulting liquid air is fractionated by a complex distillation process.
+The gaseous oxygen produced in this fashion is shipped in pressurized cylinders or, as is often the case when large amounts are involved, through pipelines to nearby industrial plants.
+RELATIONSHIP TO LIFE SCIENCES  Most organisms depend on oxygen to sustain their biological processes.
+The great majority of living organisms fall into two categories.
+In the first category are the higher plants and the photosynthetic bacteria.
+These organisms utilize light energy through PHOTOSYNTHESIS to combine carbon dioxide and water (or, infrequently, other inorganic substances in place of water) into more complex materials characterized as CARBOHYDRATES while at the same time releasing oxygen into the atmosphere.
+In the second category are the higher animals, most microorganisms, and photosynthetic cells that live in the dark.
+All these second-category organisms use complex series of enzyme-catalyzed OXIDATION AND REDUCTION reactions using materials such as glucose as the fuel and oxygen as the terminal oxidizing agent (see METABOLISM).
+The end products of metabolism in these organisms are carbon dioxide and water, which are returned to the atmosphere.
+The net result of these complementary functions is the oxygen cycle, in which the photosynthetic organisms, using solar energy, synthesize carbohydrates from water and carbon dioxide and give off oxygen as a by-product, while the aerobic organisms oxidize ingested organic materials, using up oxygen and giving off carbon dioxide and water through a complex series of metabolic processes.
+It has been estimated that 3.
+5 X (10 to the power of 11) tons of carbon dioxide are cycled annually via these processes.
+Thus, in the vertebrates--and in humans in particular--oxygen is necessary to sustain metabolism and thus life.
+Air is inhaled and oxygen in the air is exchanged in the lungs between the atmosphere and the hemoglobin in the blood.
+The blood carries the oxygen, complexed with hemoglobin, to all parts of the body in which metabolic processes occur.
+It also carries carbon dioxide back to the lungs, where the carbon dioxide is exchanged with the atmosphere and exhaled.
+If the oxygen concentration were to drop to about half its value in the atmosphere, humans could no longer survive.
+For this reason an important component of the life-support systems of divers and astronauts is a source of oxygen gas.
+Similarly, persons ill with respiratory diseases that interfere with normal respiration, such as pneumonia and emphysema, are often kept in OXYGEN TENTS and HYPERBARIC CHAMBERS, the latter administering high-pressure oxygen, may be used to treat a variety of ailments.
+IMPORTANT COMPOUNDS  In the realm of inorganic chemistry there is a very large number of oxygen- containing compounds.
+There are very few elements for which no oxides are known, and there are several metallic elements (such as titanium, vanadium, and praseodymium) for which a wide variety of solid oxides exist.
+The solid oxides of the metallic elements can generally be synthesized by the direct reaction of the elements at high temperatures.
+In many cases such reactions will result in the formation of a single oxide of the metal in its most oxidized form.
+Typical examples are the metallic oxides of sodium, calcium, lanthanum, titanium, vanadium, and tungsten.
+In the cases of elements capable of forming reduced oxides, in particular the early transition metals, the reduced oxides can be formed by heating the highest oxide, formed as above, to very high temperatures (1,500 K or higher) either in an inert container or in the presence of the metallic element.
+The reduced oxides that result exhibit a variation in the extent and importance of direct metal-metal bonding in the compounds, and this variation gives rise to a variety of electrical and magnetic properties.
+The more metal-rich of these oxides are metallic conductors and tend to be nonstoichiometric; that is, they are observed to exist over a range of compositions all possessing the same underlying structure.
+A number of these titanium oxides exhibit more than one crystal structure (polymorphism).
+The most oxidized compound, titanium, is widely used in the RUTILE form as a white pigment in paints.
+Ternary oxides, consisting of two metallic elements plus oxygen, are of great interest to solid-state scientists.
+For example, compounds such as the SPINELS and the PEROVSKITES are studied extensively because of their interesting magnetic and electrical properties.
+Examples of important ternary oxides are the magnetic FERRITES, whose magnetic properties can be tailored, making them useful in computer memory units.
+The ferrites are prepared by firing compacted mixtures of iron oxide and one or more metal oxides (such as those of nickel, copper, zinc, magnesium, and manganese).
+Also of importance in inorganic chemistry are the oxides of the nonmetals.
+Most of the nonmetals are known to form a wide variety of compounds with oxygen.
+The nitrogen oxides are undesirable by-products of high-temperature combustion in air (as in an internal combustion engine) and can cause serious environmental pollution.
