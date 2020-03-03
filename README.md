@@ -29,7 +29,6 @@ We have added the `deep_reading/topics` section contains the topics that we used
 
 `deep_reading` folder stores all the models that were created in the research phase with the structure as `topic_epochs` and `topic_epochs/squad` containing the 'SQUAD' files.  
 
-[Google Drive: 926GB and counting](https://drive.google.com/drive/folders/1MjR9Xrp867WWiNNBzTObjayZPvPNKfzM?usp=sharing) We tried lot of options! The notebooks are in the `Google Colab` folder
 
 We created the `squad.py` and `lm.py` scripts to perform the respective tasks.  
 
